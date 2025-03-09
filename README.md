@@ -1,5 +1,10 @@
-Plant-Disease-Detection-system
+#Plant-Disease-Detection-system
 
-After cloning the repository, ensure that you update the dataset directory path in the "Plant.py" file to match the correct location on your system.
-C:\Users\<your username>\Plant-Disease-Detection-system\plant_dataset meaning plant_dataset contains both train and valid folders.
-Run Plant.py and it will run succesfull.
+After cloning the repository, update the dataset directory path in the "Plant.py" file to match the correct location on your system.
+
+For example:
+C:\Users\<your_username>\Plant-Disease-Detection-System\plant_dataset
+
+Here, the plant_dataset folder contains both train and valid subfolders.
+
+Once the path is set correctly, run Plant.py, and the script will execute successfully.
