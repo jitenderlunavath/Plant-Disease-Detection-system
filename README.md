@@ -1,4 +1,4 @@
-Plant-Disease-Detection-system
+Plant Disease Ditection System
 
 After cloning the repository, update the dataset directory path in the "Plant.py" file to match the correct location on your system.
 
